@@ -1,0 +1,46 @@
+{
+  "name": "calm-coder-themes",
+  "displayName": "Calm Coder Themes",
+  "description": "A trio of VS Code themes inspired by a candy-warm portfolio — Candy (cream & yellow), Light (clean blue), and Dark (midnight blue).",
+  "version": "0.1.0",
+  "publisher": "sumitpal29",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "candy",
+    "warm",
+    "cream",
+    "yellow",
+    "dark",
+    "light"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Calm Coder – Candy",
+        "uiTheme": "vs",
+        "path": "./themes/candy-color-theme.json"
+      },
+      {
+        "label": "Calm Coder – Light",
+        "uiTheme": "vs",
+        "path": "./themes/light-color-theme.json"
+      },
+      {
+        "label": "Calm Coder – Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sumitpal29/calm-coder-themes"
+  },
+  "license": "MIT"
+}
