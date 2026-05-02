@@ -5,7 +5,7 @@
     "focusBorder": "#93c5fdcc",
     "foreground": "#f9fafb",
     "disabledForeground": "#6b7280",
-    "widget.shadow": "#00000060",
+    "widget.shadow": "#bf555560",
     "selection.background": "#93c5fd30",
     "descriptionForeground": "#9ca3af",
     "errorForeground": "#f87171",

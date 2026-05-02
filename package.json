@@ -35,6 +35,11 @@
         "label": "Calm Coder – Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
+      },
+      {
+        "label": "Calm Coder – Dark Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-candy-color-theme.json"
       }
     ]
   },
