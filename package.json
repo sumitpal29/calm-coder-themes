@@ -1,7 +1,7 @@
 {
   "name": "calm-coder-themes",
   "displayName": "Calm Coder Themes",
-  "description": "A trio of VS Code themes inspired by a candy-warm portfolio — Candy (cream & yellow), Light (clean blue), and Dark (midnight blue).",
+  "description": "Four easy-on-the-eyes VS Code themes — Candy, Dark Candy, Light, and Dark — built for long coding sessions.",
   "version": "0.1.0",
   "publisher": "sumitpal29",
   "engines": {
@@ -13,18 +13,34 @@
   "keywords": [
     "theme",
     "candy",
+    "dark candy",
     "warm",
     "cream",
     "yellow",
     "dark",
-    "light"
+    "light",
+    "calm",
+    "minimal",
+    "eye strain",
+    "soft",
+    "pastel",
+    "focus"
   ],
+  "galleryBanner": {
+    "color": "#2A2A2A",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Calm Coder – Candy",
         "uiTheme": "vs",
         "path": "./themes/candy-color-theme.json"
+      },
+      {
+        "label": "Calm Coder – Dark Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-candy-color-theme.json"
       },
       {
         "label": "Calm Coder – Light",
@@ -35,11 +51,6 @@
         "label": "Calm Coder – Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark-color-theme.json"
-      },
-      {
-        "label": "Calm Coder – Dark Candy",
-        "uiTheme": "vs-dark",
-        "path": "./themes/dark-candy-color-theme.json"
       }
     ]
   },
@@ -47,5 +58,9 @@
     "type": "git",
     "url": "https://github.com/sumitpal29/calm-coder-themes"
   },
+  "bugs": {
+    "url": "https://github.com/sumitpal29/calm-coder-themes/issues"
+  },
+  "homepage": "https://github.com/sumitpal29/calm-coder-themes#readme",
   "license": "MIT"
 }
