@@ -26,6 +26,7 @@
     "pastel",
     "focus"
   ],
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#2A2A2A",
     "theme": "dark"
